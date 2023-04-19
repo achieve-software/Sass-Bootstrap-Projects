@@ -21,6 +21,12 @@
       <td><a href="https://playful-syrniki-8b0921.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/bs(7)-min.gif" alt="NBA Legends App"></td>
     </tr>
+     <tr>
+      <td>Bootstrap Web Page 2</td></td>
+      <td><a href="https://github.com/achieve-software/8bootstraplessonproject" target="_blank">Repo Details</td>
+      <td><a href="https://glowing-cucurucho-52cd3f.netlify.app/">Live App</td>
+      <td><img src="https://raw.githubusercontent.com/achieve-software/gif/main/boot-min(1).gif" alt="NBA Legends App"></td>
+    </tr>
    
   </tbody>
 </table>
